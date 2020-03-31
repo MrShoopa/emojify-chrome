@@ -1,0 +1,9 @@
+{
+    "workbench.colorCustomizations": {
+        "titleBar.border": "#ff0000",
+        "titleBar.activeBackground": "#445000"
+    },
+
+    "discord.detailsEditing": "✍ {filename}",
+    "discord.lowerDetailsEditing": "Making 🅱"
+}
